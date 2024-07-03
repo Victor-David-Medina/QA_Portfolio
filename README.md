@@ -47,7 +47,7 @@ Being a junior software tester at Zan, Inc. was my first professional position s
 * Empathy
 
 ### Courses :notebook:
-* [QA Training](https://szkoleniedlaqa.pl/szkolenie/) + [PORTFOLIO](https://github.com/PaulaRybicka0114/QA_Course)
+* [QA Training](https://www.careerist.com/qa?gad_source=1) + [PORTFOLIO](https://github.com/Victor-David-Medina/QA_Portfolio)
 * DareIT Challenge - automated tests + Python [PORTFOLIO](https://github.com/PaulaRybicka0114/automation_challenge_portfolio)
 * DareIT Challenge - become a manual tester [PORTFOLIO](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
 * [Operating DevTools](https://szkoleniedlaqa.pl/konsola/)
