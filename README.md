@@ -3,10 +3,10 @@
 ### About me :wave:
 Hi, my name is Victor but you can call me David. Since the beginning of 2024, I have been studying and practicing to become a Software QA Engineer. I am  happy to have finally found an area where I can successfully develop myself. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase the practical skills I have gained through courses, self-study, and my job. I am determined to continue to grow in this field. I have also started learning test automation, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
 
-[My Linkedin profile](https://www.linkedin.com/in/victor-medina0/)
+[My LinkedIn profile](https://www.linkedin.com/in/victor-medina0/)
 
 ### My experience :office:
-Being a junior software tester at Perfect Gym is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+Being a junior software tester at Zan, Inc. was my first professional position strictly in QA area. I have made significant growth both in my tech and soft skills, such as strong analytical thinking, and developed some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
 
 ### Tools :wrench:
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
@@ -78,21 +78,18 @@ Being a junior software tester at Perfect Gym is my first professional position 
 * [Test report](https://drive.google.com/file/d/1pDDZ93CVt_WPvAae1AgnnMhsZjTb95iB/view?usp=drive_link)
 
 ### Books :books:
-* Rafał Podraza, “Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach”
-* Piotr Wicherski, [Testowanie oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+* 
+* 
 
 ### Blogs :newspaper:
-* [Testerzy](https://testerzy.pl/)
-* [Testuj](https://testuj.pl/blog/)
-* [Wyszkolę Was](https://www.wyszkolewas.com.pl/blog/)
-* [Testowanie oprogramowania](https://testowanie-oprogramowania.pl/blog/)
+* [Testerzy]
 
 ### Podcasts :microphone:
-* [Pierwsze kroki w IT](https://open.spotify.com/show/5G4Ykc9IwoCj4uirzGmxUh)
+* [Testing Peers](https://testingpeers.com/)
+* [QUALITEST](https://www.qualitestgroup.com/insights/podcasts/)
+* [Coding Blocks](https://www.codingblocks.net/)
+* [Test Guild](https://testguild.com/podcast/)
 
-### IT groups I follow on Facebook :link:
-* [DareIT Community](https://www.facebook.com/groups/dareit.io/)
-* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
-* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
-* [Testuj, Dziewczyno!](https://www.facebook.com/groups/testujdziewczyno/)
-* [Programuj, Dziewczyno!](https://www.facebook.com/groups/programujdziewczyno/)
+
+### QA/Software groups I follow:
+* 
