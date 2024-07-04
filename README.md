@@ -88,7 +88,7 @@ Being a junior software tester at Zan, Inc. was my first professional position s
 * Team Guide to Software Testability by Robert Meaney and Ash Winter
 
 ### Blogs :newspaper:
-* [Global app testing blog](https://www.globalapptesting.com/blog)
+* [Global App Testing Blog](https://www.globalapptesting.com/blog)
 * [Software Testing Weekly](https://softwaretestingweekly.com/)
 * [Google Testing Blog](https://testing.googleblog.com/)
 * [StickyMinds](https://www.stickyminds.com/topics/qa)
