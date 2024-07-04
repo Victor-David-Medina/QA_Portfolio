@@ -42,9 +42,10 @@ Being a junior software tester at Zan, Inc. was my first professional position s
 ### Soft skills :file_folder:
 * Precision
 * Communication
-* assertiveness
-* patience
+* Assertiveness
+* Patience
 * Empathy
+* 
 
 ### Courses :notebook:
 * [QA Training](https://www.careerist.com/qa?gad_source=1) + [PORTFOLIO](https://github.com/Victor-David-Medina/QA_Portfolio)
@@ -78,11 +79,20 @@ Being a junior software tester at Zan, Inc. was my first professional position s
 * [Test report](https://drive.google.com/file/d/1pDDZ93CVt_WPvAae1AgnnMhsZjTb95iB/view?usp=drive_link)
 
 ### Books :books:
-* 
-* 
+* Explore It! by Elisabeth Hendrickson
+* Thinking Fast and Slow by Daniel Kahneman
+* Lessons Learned in Software Testing by Bret Pettichord James Bach and Cem Kaner
+* Crucial Conversations by Kerry Petterson
+* Standout by Ben Kelly
+* Would Heu-Risk It? by Lena Pejgan Wiberg
+* Team Guide to Software Testability by Robert Meaney and Ash Winter
 
 ### Blogs :newspaper:
-* [Testerzy]
+* [Global app testing blog](https://www.globalapptesting.com/blog)
+* [Software Testing Weekly](https://softwaretestingweekly.com/)
+* [Google Testing Blog](https://testing.googleblog.com/)
+* [StickyMinds](https://www.stickyminds.com/topics/qa)
+* [Evil Tester](https://www.eviltester.com/blog/)
 
 ### Podcasts :microphone:
 * [Testing Peers](https://testingpeers.com/)
