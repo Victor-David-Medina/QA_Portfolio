@@ -65,24 +65,15 @@ My journey into software QA began with a role as a Junior Quality Assurance Engi
 * [QA Training](https://www.careerist.com/qa?gad_source=1) + [PORTFOLIO](https://github.com/Victor-David-Medina/QA_Portfolio)
 
 ### Certificates :trophy:
-* [DareIT Challenge - become a manual tester](https://drive.google.com/file/d/1YpGj2B1LOWcX6n43XOarXhscEBcZT1O6/view?usp=sharing)
-* [Operating DevTools](https://drive.google.com/file/d/1ivc7_YJ9rcasOwIgwA87S9SmqcefSwqr/view?usp=sharing)
-* [Fundamentals of manual software testing](https://www.udemy.com/certificate/UC-cb1f1ecf-5dbb-4879-896d-469cdaa18751/)
-* [Postman - REST API testing](https://www.udemy.com/certificate/UC-34482c92-39fa-4fed-ae79-fa441c429cc6/)
-* [INCO Green Digital Skills](https://drive.google.com/file/d/1s_PxjBdtJznErCLK6pftFKwhvPNynW1a/view?usp=drive_link)
+
 
 ### Sample Test Cases :microscope:
 **1. Orchestra Sandbox**
-* [Test plan](https://drive.google.com/file/d/1cRJdU6T6CtdcUbtz7Vtp08lzP7Up145y/view?usp=drive_link)
-* [Test cases](https://docs.google.com/document/d/1obBYg-6bmxsXW05WEku2Z7R_r_DquGhnboqCt_j0A9E/edit?usp=drive_link)
-* [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
+
 
 
 **2. E-gree Sandbox**
-* [Test plan](https://drive.google.com/file/d/14YT3LU42hfid7Ydq7eo5Dv2m8CQwgZNH/view?usp=drive_link)
-* [Scenario and test cases](https://docs.google.com/spreadsheets/d/1lCWVFviaHi4Q8tluyCWeMiH4a-cpWKqzjk7G3zJPfqA/edit?usp=sharing)
-* [Bug report](https://docs.google.com/spreadsheets/d/1Ztz3sgFs_pcBi3PXwAIu-MNxDDbJeHlPIpnPANpMmIA/edit?usp=sharing)
-* [Test report](https://drive.google.com/file/d/1pDDZ93CVt_WPvAae1AgnnMhsZjTb95iB/view?usp=drive_link)
+
 
 ### Books :books:
 * Explore It! by Elisabeth Hendrickson
@@ -108,4 +99,4 @@ My journey into software QA began with a role as a Junior Quality Assurance Engi
 
 
 ### QA/Software groups I follow:
-* 
+* [QA at the Point](https://github.com/qa-at-the-point/base) & [Website](https://base.qap.dev/#/)
