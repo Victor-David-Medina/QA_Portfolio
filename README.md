@@ -1,12 +1,12 @@
 # QA_Portfolio
 
 ### About me :wave:
-Hi, my name is Victor but you can call me David. Since the beginning of 2024, I have been studying and practicing to become a Software QA Engineer. I am  happy to have finally found an area where I can successfully develop myself. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase the practical skills I have gained through courses, self-study, and my job. I am determined to continue to grow in this field. I have also started learning test automation, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
+Hi, my name is Victor, but you can call me David. Since the beginning of 2024, I have been dedicated to studying and practicing to become a Software QA Engineer. Transitioning from nearly a decade of experience in accounting, I have developed a strong foundation in analytical thinking, data integrity, and attention to detail—skills that seamlessly translate to the meticulous nature of QA work. My background in accounting taught me to be deadline-oriented and thorough in my work, which are essential qualities in software testing. I have completed a comprehensive Software Testing and Quality Assurance certification course, and I am passionate about ensuring the quality and reliability of software products. In the QA position, I see the potential to make the digital world more welcoming for every person. I am determined to continue growing in this field and have also started learning test automation and delving deeper into Python to further enhance my skills.
 
 [My LinkedIn profile](https://www.linkedin.com/in/victor-medina0/)
 
 ### My experience :office:
-Being a junior software tester at Zan, Inc. was my first professional position strictly in QA area. I have made significant growth both in my tech and soft skills, such as strong analytical thinking, and developed some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+My journey into software QA began with a role as a Junior Quality Assurance Engineer at Zan, Inc., where I made significant strides in both technical and soft skills. I collaborated with cross-functional teams to ensure the flawless performance of products, conducted meticulous testing, and developed test automation know-how. My accounting background provided me with a unique perspective on QA, as I was accustomed to overseeing the correct operation of internal systems and reporting any discrepancies. At Orchestra, I further honed my skills by collaborating with teams to identify defects in web applications, using tools like TestRail and Jira. I have demonstrated proficiency in executing test cases, debugging, and providing detailed documentation. My determination to excel in QA is driven by a commitment to improving the user experience and ensuring high-quality software products.
 
 ### Tools :wrench:
 * [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
@@ -23,7 +23,6 @@ Being a junior software tester at Zan, Inc. was my first professional position s
 * [Selenium](https://www.selenium.dev/) - Automated Testing
 * [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
 * [Zephyr](https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing)
-
 * Rest API testing
 * [ISTQB Foundation Level](https://sjsi.org/ist-qb/do-pobrania/) knowledge
 * Basic knowledge of software development models (waterfall, v model, iterative and incremental model, agile)
@@ -40,23 +39,30 @@ Being a junior software tester at Zan, Inc. was my first professional position s
 * scrum workflow
 
 ### Soft skills :file_folder:
-* Precision
-* Communication
-* Assertiveness
-* Patience
-* Empathy
-* 
+* Excellent Communication
+* Prioritization
+* Interpersonal Skills/Team Player
+* Organized
+* Attention to Detail
+* Knowing What and When to Ask Questions
+* Listening
+* Problem-Solving
+* Effective Time-Management
+* End-user Empathy
+* Intuition
+* Adaptable
+* Perseverance
+* Lead Discussions and Meetings
+* Decision Making
+* Stress Resistance
+* Learn From Past Experience
+* Sharing Knowledge
+* Ability to Learn Quickly
+* Strong Analytical Skills
+* People person
 
 ### Courses :notebook:
 * [QA Training](https://www.careerist.com/qa?gad_source=1) + [PORTFOLIO](https://github.com/Victor-David-Medina/QA_Portfolio)
-* DareIT Challenge - automated tests + Python [PORTFOLIO](https://github.com/PaulaRybicka0114/automation_challenge_portfolio)
-* DareIT Challenge - become a manual tester [PORTFOLIO](https://github.com/PaulaRybicka0114/challenge_portfolio_paulinarybicka)
-* [Operating DevTools](https://szkoleniedlaqa.pl/konsola/)
-* CherryIT COLT 1/2023 - Postman & Rest API - [PORTFOLIO](https://github.com/PaulaRybicka0114/COLT-1-2023)
-* CherryIT COLT 2/2023 - Git - [PORTFOLIO](https://github.com/PaulaRybicka0114/COLT_2-2023.git)
-* [Fundamentals of manual software testing](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
-* [SQL training in 120 minutes](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
-* [Postman - REST API testing](https://www.udemy.com/course/kurs-postman/#instructor-1)
 
 ### Certificates :trophy:
 * [DareIT Challenge - become a manual tester](https://drive.google.com/file/d/1YpGj2B1LOWcX6n43XOarXhscEBcZT1O6/view?usp=sharing)
@@ -65,14 +71,14 @@ Being a junior software tester at Zan, Inc. was my first professional position s
 * [Postman - REST API testing](https://www.udemy.com/certificate/UC-34482c92-39fa-4fed-ae79-fa441c429cc6/)
 * [INCO Green Digital Skills](https://drive.google.com/file/d/1s_PxjBdtJznErCLK6pftFKwhvPNynW1a/view?usp=drive_link)
 
-### Samples :microscope:
-**1. Allegro Sandbox**
+### Sample Test Cases :microscope:
+**1. Orchestra Sandbox**
 * [Test plan](https://drive.google.com/file/d/1cRJdU6T6CtdcUbtz7Vtp08lzP7Up145y/view?usp=drive_link)
 * [Test cases](https://docs.google.com/document/d/1obBYg-6bmxsXW05WEku2Z7R_r_DquGhnboqCt_j0A9E/edit?usp=drive_link)
 * [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
-* [Test report](https://drive.google.com/file/d/10nz_hn8osQ20P3n1tEWSlKMcgNqtJ_yB/view?usp=drive_link)
 
-**2. Generic Shop by TestArmy**
+
+**2. E-gree Sandbox**
 * [Test plan](https://drive.google.com/file/d/14YT3LU42hfid7Ydq7eo5Dv2m8CQwgZNH/view?usp=drive_link)
 * [Scenario and test cases](https://docs.google.com/spreadsheets/d/1lCWVFviaHi4Q8tluyCWeMiH4a-cpWKqzjk7G3zJPfqA/edit?usp=sharing)
 * [Bug report](https://docs.google.com/spreadsheets/d/1Ztz3sgFs_pcBi3PXwAIu-MNxDDbJeHlPIpnPANpMmIA/edit?usp=sharing)
